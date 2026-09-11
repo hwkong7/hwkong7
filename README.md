@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <h2>👋 Hello, I'm Hye Won!</h2>
+  <h2>👋안녕하세요 신혜원입니다</h2>
 
   <p>
     <b>프론트엔드 개발자 신혜원</b>
