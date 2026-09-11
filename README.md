@@ -98,7 +98,7 @@
 
 ## 🚀 Projects
 
-### 🔍 CVE Web Vulnerability Diagnosis
+### 🔍 CVE PoC Scanner
 
 > 웹 취약점 진단 결과를 한눈에 확인할 수 있는 웹 서비스
 
