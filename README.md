@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=FADCE8&amp;height=130&amp;section=header" alt="Pink wave header" />
+
 <h1>🎀 Hye Won’s GitHub 🎀</h1>
 
 <p><strong>Frontend Developer · React · TypeScript</strong></p>
