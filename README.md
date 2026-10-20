@@ -1,16 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FADCE8,50:F7BFD3,100:ECA2BF&height=210&section=header&text=Hye%20Won's%20GitHub&fontSize=48&fontColor=78465D&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20TypeScript&descAlignY=60&descSize=17&animation=fadeIn" alt="Hye Won's GitHub banner" />
+<h1>🎀 Hye Won’s GitHub 🎀</h1>
 
-### 🎀 안녕하세요, 프론트엔드 개발자 신혜원입니다.
+<p><strong>Frontend Developer · React · TypeScript</strong></p>
+
+<img src="https://img.shields.io/badge/PINK-RIBBON-F7BFD3?style=for-the-badge&amp;labelColor=FFF0F6&amp;logoColor=78465D" alt="Pink Ribbon" />
+
+<h3>🎀 안녕하세요, 프론트엔드 개발자 신혜원입니다.</h3>
 
 작은 UI 디테일과 사용자 흐름을 고민하며, 구현부터 오류 해결까지 끝까지 완성합니다.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-EBA4C1?style=flat-square&logo=vercel&logoColor=71435B)](https://hwkong7-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-hwkong7-F4B8CF?style=flat-square&logo=github&logoColor=71435B)](https://github.com/hwkong7)
-[![Email](https://img.shields.io/badge/Email-Contact-F4B8CF?style=flat-square&logo=gmail&logoColor=71435B)](mailto:lime040909@gmail.com)
+<a href="https://hwkong7-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-EBA4C1?style=flat-square&amp;logo=vercel&amp;logoColor=71435B" alt="Portfolio" /></a>
+<a href="https://github.com/hwkong7"><img src="https://img.shields.io/badge/GitHub-hwkong7-F4B8CF?style=flat-square&amp;logo=github&amp;logoColor=71435B" alt="GitHub" /></a>
+<a href="mailto:lime040909@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-F4B8CF?style=flat-square&amp;logo=gmail&amp;logoColor=71435B" alt="Email" /></a>
 
-୨୧ ─────────────── ♡ ─────────────── ୨୧
+<p>୨୧ ─────────────── ♡ ─────────────── ୨୧</p>
 
 </div>
 
@@ -142,16 +146,14 @@
 | :---: | :---: | :---: |
 | 작은 UI 요소까지 신경 씁니다. | 사용자 흐름을 먼저 생각합니다. | 함께 만드는 과정을 중요하게 생각합니다. |
 
-## 🌸 GitHub Activity
+## 🌸 GitHub Stats
 
 <div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hwkong7&bg_color=fff7fa&color=9c5877&line=e89cbd&point=c96594&area=true&area_color=f6ccdd&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hwkong7&show_icons=true&hide_border=true&bg_color=FFF7FA&title_color=C96594&text_color=78465D&icon_color=E89CBD" alt="GitHub stats" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwkong7&layout=compact&hide_border=true&bg_color=FFF7FA&title_color=C96594&text_color=78465D" alt="Most used languages" />
 
-<sub>※ 그래프와 통계 이미지는 외부 서비스에서 제공하므로 일시적으로 표시되지 않을 수 있습니다.</sub>
+<sub>※ 통계 이미지는 외부 서비스에서 제공하므로 일시적으로 표시되지 않을 수 있습니다.</sub>
 
 </div>
 
@@ -159,12 +161,12 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-EBA4C1?style=for-the-badge&logo=vercel&logoColor=78465D)](https://hwkong7-portfolio.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-F4B8CF?style=for-the-badge&logo=gmail&logoColor=78465D)](mailto:lime040909@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-hwkong7-F4B8CF?style=for-the-badge&logo=github&logoColor=78465D)](https://github.com/hwkong7)
+<a href="https://hwkong7-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-EBA4C1?style=for-the-badge&amp;logo=vercel&amp;logoColor=78465D" alt="Portfolio" /></a>
+<a href="mailto:lime040909@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-F4B8CF?style=for-the-badge&amp;logo=gmail&amp;logoColor=78465D" alt="Gmail" /></a>
+<a href="https://github.com/hwkong7"><img src="https://img.shields.io/badge/GitHub-hwkong7-F4B8CF?style=for-the-badge&amp;logo=github&amp;logoColor=78465D" alt="GitHub" /></a>
 
-🌸 ୨୧ 🌸
+<p>🌸 ୨୧ 🌸</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FADCE8,50:F7BFD3,100:ECA2BF&height=110&section=footer" alt="pink wave footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=FADCE8&amp;height=110&amp;section=footer" alt="pink wave footer" />
 
 </div>
