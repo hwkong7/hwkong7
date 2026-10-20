@@ -1,226 +1,111 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fee1e9&height=180&text=Hye%20Won's%20Github&fontColor=282d33&fontSize=55&fontAlignY=40&animation=fadeIn" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FADCE8,50:F7BFD3,100:ECA2BF&height=210&section=header&text=Hye%20Won's%20GitHub&fontSize=48&fontColor=78465D&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20TypeScript&descAlignY=60&descSize=17&animation=fadeIn" alt="Hye Won's GitHub banner" />
+🎀 안녕하세요, 프론트엔드 개발자 신혜원입니다.
+작은 UI 디테일과 사용자 흐름을 고민하며, 구현부터 오류 해결까지 끝까지 완성합니다.
+![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-EBA4C1?style=flat-square&logo=vercel&logoColor=71435B)
+![GitHub](https://img.shields.io/badge/GitHub-hwkong7-F4B8CF?style=flat-square&logo=github&logoColor=71435B)
+![Email](https://img.shields.io/badge/Email-Contact-F4B8CF?style=flat-square&logo=gmail&logoColor=71435B)
+୨୧ ─────────────── ♡ ─────────────── ୨୧
 </div>
-
-<div align="center">
-
-  <h2>👋안녕하세요 신혜원입니다</h2>
-
-  <p>
-    <b>프론트엔드 개발자 신혜원</b>
-  </p>
-
-  <p>
-    사용자가 직접 마주하는 화면을 꼼꼼하게 고민하고<br/>
-    작은 UI 요소와 사용자 경험까지 신경 쓰며 구현합니다.
-  </p>
-
-</div>
-
-<br/>
-
----
-
-## 🎨 About Me
-
-<div align="center">
-
-| | |
-|:---:|:---|
-| 💻 **Frontend** | React, Next.js, TypeScript, JavaScript |
-| 🎨 **UI / UX** | Figma를 활용한 화면 설계 및 디자인 구현 |
-| 📱 **Mobile** | React Native, Flutter |
-| 🔧 **State / Data** | Zustand, React Query |
-| 🛠 **Tools** | Git, GitHub, Vercel |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-> **"기능만 동작하는 화면보다, 다시 방문하고 싶은 화면을 만들고 싶습니다."**
-
-</div>
-
-<br/>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-
+🎀 About Me
+🌸 Frontend · React, Next.js, TypeScript 기반 웹 UI 개발
+♡ UI / UX · 사용자의 동선과 화면 디테일을 고려한 인터페이스 구현
+🌷 Mobile & Desktop · React Native, Flutter, Electron 프로젝트 경험
+✿ Problem Solving · API 연동, 상태 관리, 오류 상황 대응 및 개선
+🎀 Collaboration · Git/GitHub를 활용한 팀 개발과 협업
+🌷 Tech Stack
+> 프로젝트에서 사용했거나 학습·실습한 기술을 분야별로 정리했습니다.
+♡ Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-F7BFD3?style=for-the-badge&logo=html5&logoColor=78465D" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-F7BFD3?style=for-the-badge&logo=css3&logoColor=78465D" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7BFD3?style=for-the-badge&logo=javascript&logoColor=78465D" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-F7BFD3?style=for-the-badge&logo=typescript&logoColor=78465D" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-F7BFD3?style=for-the-badge&logo=react&logoColor=78465D" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-F7BFD3?style=for-the-badge&logo=nextdotjs&logoColor=78465D" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vite-F7BFD3?style=for-the-badge&logo=vite&logoColor=78465D" alt="Vite" />
 </p>
-
-### 🎨 Styling & UI
-
+♡ Styling & Design
 <p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-F8D6E3?style=for-the-badge&logo=tailwindcss&logoColor=78465D" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Figma-F8D6E3?style=for-the-badge&logo=figma&logoColor=78465D" alt="Figma" />
 </p>
-
-### 📦 State & Data
-
+♡ State Management & API
 <p>
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=Zustand&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-F4B8CF?style=for-the-badge&logoColor=78465D" alt="Zustand" />
+<img src="https://img.shields.io/badge/TanStack_Query-F4B8CF?style=for-the-badge&logo=reactquery&logoColor=78465D" alt="TanStack Query" />
+<img src="https://img.shields.io/badge/Axios-F4B8CF?style=for-the-badge&logo=axios&logoColor=78465D" alt="Axios" />
+<img src="https://img.shields.io/badge/REST_API-F4B8CF?style=for-the-badge&logoColor=78465D" alt="REST API" />
 </p>
-
-### 📱 Mobile
-
+♡ Mobile & Desktop
 <p>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-F8D6E3?style=for-the-badge&logo=react&logoColor=78465D" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-F8D6E3?style=for-the-badge&logo=expo&logoColor=78465D" alt="Expo" />
+<img src="https://img.shields.io/badge/Flutter-F8D6E3?style=for-the-badge&logo=flutter&logoColor=78465D" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-F8D6E3?style=for-the-badge&logo=dart&logoColor=78465D" alt="Dart" />
+<img src="https://img.shields.io/badge/Electron-F8D6E3?style=for-the-badge&logo=electron&logoColor=78465D" alt="Electron" />
+<img src="https://img.shields.io/badge/SwiftUI-F8D6E3?style=for-the-badge&logo=swift&logoColor=78465D" alt="SwiftUI" />
 </p>
-
-### 🔧 Tools
-
+♡ Backend, Database & BaaS
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-F7BFD3?style=for-the-badge&logo=supabase&logoColor=78465D" alt="Supabase" />
+<img src="https://img.shields.io/badge/Firebase-F7BFD3?style=for-the-badge&logo=firebase&logoColor=78465D" alt="Firebase" />
+<img src="https://img.shields.io/badge/SQL-F7BFD3?style=for-the-badge&logoColor=78465D" alt="SQL" />
+<img src="https://img.shields.io/badge/Python-F7BFD3?style=for-the-badge&logo=python&logoColor=78465D" alt="Python" />
 </p>
-
-<br/>
-
----
-
-## 🚀 Projects
-
-### 🔍 CVE PoC Scanner
-
-> 웹 취약점 진단 결과를 한눈에 확인할 수 있는 웹 서비스
-
-**Frontend**
-
-`React` `Vite` `Tailwind CSS` `Zustand`
-
-- 취약점 진단 결과를 직관적으로 확인할 수 있는 UI 구현
-- REST API 명세 및 데이터 흐름 설계
-- API 응답 데이터를 화면에 맞게 가공 및 렌더링
-- 인증 상태 및 전역 상태 관리
-- 팀원들과 Git을 활용한 협업 및 Merge Conflict 해결
-
----
-
-### ⚖️ PANSA — 판사님 여기입니다
-
-> 일상 속 갈등을 법정 형식으로 풀어보는 모바일 웹 서비스
-
-**Frontend**
-
+♡ Tools, Deployment & Testing
+<p>
+<img src="https://img.shields.io/badge/Git-F8D6E3?style=for-the-badge&logo=git&logoColor=78465D" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-F8D6E3?style=for-the-badge&logo=github&logoColor=78465D" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-F8D6E3?style=for-the-badge&logoColor=78465D" alt="VS Code" />
+<img src="https://img.shields.io/badge/Vercel-F8D6E3?style=for-the-badge&logo=vercel&logoColor=78465D" alt="Vercel" />
+<img src="https://img.shields.io/badge/GitHub_Pages-F8D6E3?style=for-the-badge&logo=githubpages&logoColor=78465D" alt="GitHub Pages" />
+<img src="https://img.shields.io/badge/Vitest-F8D6E3?style=for-the-badge&logo=vitest&logoColor=78465D" alt="Vitest" />
+</p>
+<div align="center">୨୧ ─────────────── ♡ ─────────────── ୨୧</div>
+🌸 Featured Projects
+⚖️ PANSA — 판사님 여기입니다
+> 익명 갈등 사연을 재판 형식으로 공유하고, 투표와 베팅으로 판결에 참여하는 서비스
 `React Native` `Expo` `TypeScript` `Supabase`
-
-- 사건 등록부터 판결까지 이어지는 사용자 플로우 구현
-- Supabase를 활용한 데이터 연동
-- 익명 사용자 기반 서비스 구조 구현
-- 카테고리, 알림, 출석 등 서비스 기능 구현
-- 팀원들과 Git Flow를 기반으로 협업
-
----
-
-### 🧹 SnapTidy
-
-> 흩어진 디지털 자료를 정리하고 관리하는 데스크톱 애플리케이션
-
-**Frontend**
-
+♡ 재판 생성부터 참여·판결까지 이어지는 사용자 플로우 구현
+♡ Supabase 연동 및 재판 상태에 따른 화면 처리
+♡ 알림, 출석, 마이페이지 등 사용자 기능 구현
+Repository →
+✈️ HER-STORY · MCM Nomad Passport
+> 출국 전부터 귀국 후까지 이어지는 공항 여정 및 패션 경험 서비스
+`Next.js` `React` `TypeScript` `TanStack Query` `Zustand`
+♡ 로그인·회원가입·비밀번호 찾기 등 인증 화면 구현
+♡ 여러 화면에서 사용하는 공통 로딩·에러 컴포넌트 설계
+♡ 서버 데이터 오류 시 로컬 여정 상태를 복구하는 훅 및 테스트 작성
+Repository →
+🛡️ CVE PoC Scanner
+> CVE 및 OWASP 기반 웹 취약점 진단과 결과 확인을 지원하는 서비스
+`React` `Vite` `TypeScript` `Tailwind CSS` `Zustand`
+♡ 스캔 설정, 진행 상태, 결과 요약·상세 화면 구성
+♡ REST API 연동을 고려한 데이터 흐름 및 UI 설계
+♡ 팀 프로젝트 협업 및 학회 논문 참여
+Repository →
+🧹 SnapTidy
+> 로컬 사진과 파일을 정리하는 데스크톱 애플리케이션
 `React` `Electron` `Figma`
-
-- Figma를 활용한 서비스 UI/UX 설계
-- 실제 파일을 다루는 디지털 정리 서비스로 확장
-- 사용자 행동을 고려한 정리 흐름 및 인터랙션 설계
-- React 기반 화면 및 컴포넌트 구현
-
----
-
-### 🛍️ MCM Nomad Passport
-
-> 여행자의 상황과 취향을 고려한 AI 기반 패션 경험 서비스
-
-**Frontend**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS`
-
-- AI 기반 날씨·스타일 추천 화면 구현
-- 사용자 선택에 따른 인터랙션 및 화면 전환 구현
-- Google Maps 기반 위치 정보 UI 구현
-- API 데이터를 활용한 서비스 화면 구성
-- Figma 디자인을 실제 웹 화면으로 구현
-
-<br/>
-
----
-
-## 💡 What I Care About
-
+♡ 파일 탐색과 정리 흐름을 고려한 UI/UX 설계
+♡ React 기반 화면 및 인터랙션 구현
+<div align="center">୨୧ ─────────────── ♡ ─────────────── ୨୧</div>
+💗 What I Care About
+🎨 Detail	🧩 User Experience	🤝 Collaboration
+작은 UI 요소까지 신경 씁니다.	사용자 흐름을 먼저 생각합니다.	함께 만드는 과정을 중요하게 생각합니다.
+🌸 GitHub Activity
 <div align="center">
-
-<table>
-<tr>
-<td align="center">🎨<br/><b>Detail</b><br/>작은 UI 요소까지 고민합니다.</td>
-<td align="center">🧩<br/><b>UX</b><br/>사용자 흐름을 생각합니다.</td>
-<td align="center">🤝<br/><b>Collaboration</b><br/>함께 만드는 과정을 중요하게 생각합니다.</td>
-<td align="center">🚀<br/><b>Growth</b><br/>직접 만들며 배우고 성장합니다.</td>
-</tr>
-</table>
-
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hwkong7&bg_color=fff7fa&color=9c5877&line=e89cbd&point=c96594&area=true&area_color=f6ccdd&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hwkong7&show_icons=true&hide_border=true&bg_color=FFF7FA&title_color=C96594&text_color=78465D&icon_color=E89CBD" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwkong7&layout=compact&hide_border=true&bg_color=FFF7FA&title_color=C96594&text_color=78465D" alt="Most used languages" />
+<sub>※ 그래프와 통계 이미지는 외부 서비스에서 제공하므로 일시적으로 표시되지 않을 수 있습니다.</sub>
 </div>
-
-<br/>
-
----
-
-## 📚 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend_Architecture-282d33?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
-</p>
-
-<br/>
-
----
-
-## 📫 Contact Me
-
+💌 Contact
 <div align="center">
-
-<a href="mailto:lime040909@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/hwkong7">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### 🌱 꾸준히 만들고, 고민하고, 성장하는 프론트엔드 개발자입니다.
-
+![Portfolio](https://img.shields.io/badge/Portfolio-Website-EBA4C1?style=for-the-badge&logo=vercel&logoColor=78465D)
+![Gmail](https://img.shields.io/badge/Gmail-Email-F4B8CF?style=for-the-badge&logo=gmail&logoColor=78465D)
+![GitHub](https://img.shields.io/badge/GitHub-hwkong7-F4B8CF?style=for-the-badge&logo=github&logoColor=78465D)
+🌸 ୨୧ 🌸
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FADCE8,50:F7BFD3,100:ECA2BF&height=110&section=footer" alt="pink wave footer" />
 </div>
