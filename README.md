@@ -33,45 +33,45 @@
 
 ♡ Frontend
 <p>
-<img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=D4B500" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=149EBC" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=000000" alt="Next.js" />
-<img src="https://img.shields.io/badge/Vite-FFFFFF?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
+<img src="https://img.shields.io/badge/HTML5-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=css3&logoColor=1572B6" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=javascript&logoColor=D4B500" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=react&logoColor=149EBC" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=nextdotjs&logoColor=000000" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vite-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=vite&logoColor=646CFF" alt="Vite" />
 </p>♡ Styling & Design
 <p>
-<img src="https://img.shields.io/badge/Tailwind_CSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Figma-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=figma&logoColor=F24E1E" alt="Figma" />
 </p>♡ State Management & API
 <p>
-<img src="https://img.shields.io/badge/Zustand-FFFFFF?style=for-the-badge&logoColor=6B4F3A" alt="Zustand" />
-<img src="https://img.shields.io/badge/TanStack_Query-FFFFFF?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />
-<img src="https://img.shields.io/badge/Axios-FFFFFF?style=for-the-badge&logo=axios&logoColor=5A29E4" alt="Axios" />
-<img src="https://img.shields.io/badge/REST_API-FFFFFF?style=for-the-badge&logoColor=444444" alt="REST API" />
+<img src="https://img.shields.io/badge/Zustand-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6" alt="Zustand" />
+<img src="https://img.shields.io/badge/TanStack_Query-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />
+<img src="https://img.shields.io/badge/Axios-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=axios&logoColor=5A29E4" alt="Axios" />
+<img src="https://img.shields.io/badge/REST_API-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6" alt="REST API" />
 </p>♡ Mobile & Desktop
 <p>
-<img src="https://img.shields.io/badge/React_Native-FFFFFF?style=for-the-badge&logo=react&logoColor=149EBC" alt="React Native" />
-<img src="https://img.shields.io/badge/Expo-FFFFFF?style=for-the-badge&logo=expo&logoColor=000000" alt="Expo" />
-<img src="https://img.shields.io/badge/Flutter-FFFFFF?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-FFFFFF?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart" />
-<img src="https://img.shields.io/badge/Electron-FFFFFF?style=for-the-badge&logo=electron&logoColor=47848F" alt="Electron" />
-<img src="https://img.shields.io/badge/SwiftUI-FFFFFF?style=for-the-badge&logo=swift&logoColor=F05138" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/React_Native-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=react&logoColor=149EBC" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=expo&logoColor=000000" alt="Expo" />
+<img src="https://img.shields.io/badge/Flutter-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=flutter&logoColor=02569B" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=dart&logoColor=0175C2" alt="Dart" />
+<img src="https://img.shields.io/badge/Electron-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=electron&logoColor=47848F" alt="Electron" />
+<img src="https://img.shields.io/badge/SwiftUI-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=swift&logoColor=F05138" alt="SwiftUI" />
 </p>♡ Backend, Database & BaaS
 <p>
-<img src="https://img.shields.io/badge/Supabase-FFFFFF?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
-<img src="https://img.shields.io/badge/Firebase-FFFFFF?style=for-the-badge&logo=firebase&logoColor=DD9B00" alt="Firebase" />
-<img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logoColor=336791" alt="SQL" />
-<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/Supabase-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
+<img src="https://img.shields.io/badge/Firebase-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=firebase&logoColor=DD9B00" alt="Firebase" />
+<img src="https://img.shields.io/badge/SQL-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6" alt="SQL" />
+<img src="https://img.shields.io/badge/Python-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=python&logoColor=3776AB" alt="Python" />
 </p>♡ Tools, Deployment & Testing
 <p>
-<img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-FFFFFF?style=for-the-badge&logoColor=007ACC" alt="VS Code" />
-<img src="https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000" alt="Vercel" />
-<img src="https://img.shields.io/badge/GitHub_Pages-FFFFFF?style=for-the-badge&logo=githubpages&logoColor=222222" alt="GitHub Pages" />
-<img src="https://img.shields.io/badge/Vitest-FFFFFF?style=for-the-badge&logo=vitest&logoColor=6E9F18" alt="Vitest" />
+<img src="https://img.shields.io/badge/Git-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=github&logoColor=181717" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+<img src="https://img.shields.io/badge/Vercel-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=vercel&logoColor=000000" alt="Vercel" />
+<img src="https://img.shields.io/badge/GitHub_Pages-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=githubpages&logoColor=222222" alt="GitHub Pages" />
+<img src="https://img.shields.io/badge/Vitest-F3F4F6?style=flat-square&labelColor=F3F4F6&color=F3F4F6&logo=vitest&logoColor=6E9F18" alt="Vitest" />
 </p>
 
 <div align="center">୨୧ ─────────────── ♡ ─────────────── ୨୧</div>
