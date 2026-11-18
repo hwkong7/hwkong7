@@ -140,13 +140,15 @@
 
 </div>
 
+
+### 🌷 My Contribution Garden
+
 <div align="center">
 
-### 🌷 Contribution Garden
-
-<img width="100%" src="https://ghchart.rshah.org/E89CBD/hwkong7" alt="Pink GitHub contribution graph" />
+<img src="./assets/pink-contributions.svg" width="100%" alt="Strawberry Milk GitHub Contributions" />
 
 </div>
+
 
 ## 💌 Contact
 
